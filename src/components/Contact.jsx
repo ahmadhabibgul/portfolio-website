@@ -75,12 +75,17 @@ export default function Contact() {
                       href={href}
                       target={external ? '_blank' : undefined}
                       rel={external ? 'noopener noreferrer' : undefined}
+                      download={
+                        label === 'Download CV'
+                          ? 'Ahmad_Habib_CV.pdf'
+                          : undefined
+                      }
                       className='
-                     link-line link-line-light group
-                     inline-flex items-center gap-[5px]
-                     font-sans text-[12.5px] text-parchment-2
+                      link-line link-line-light group
+                      inline-flex items-center gap-[5px]
+                      font-sans text-[12.5px] text-parchment-2
                      hover:text-parchment transition-colors duration-150
-                   '
+                    '
                     >
                       {label}
                       <span
