@@ -6,7 +6,7 @@ const ITEMS = [
     category: 'Community',
     title: 'CS Club',
     role: 'Founder',
-    desc: 'No CS society existed — built one. Ran structured weekly sessions on programming fundamentals, software projects, and industry awareness. Grew to 20+ regular members over two years.',
+    desc: 'No CS society existed — built one. Ran structured weekly sessions on programming fundamentals, software projects, and industry awareness. Grew to 40+ regular members over two years.',
     primary: '2025 – 2026',
     secondary: '40+ active members',
   },

@@ -49,7 +49,7 @@ const GRID_PROJECTS = [
     index: '02',
     category: 'Web Studio · Co-Founder',
     title: 'Grayline Studios',
-    desc: 'A commercial web studio operating since 2023. Takes client briefs from SMEs, designs in Figma, and ships to production.',
+    desc: 'A commercial web studio founded in 2026. Takes client briefs from SMEs, designs in Figma, and ships to production.',
     stack: ['React', 'Next.js', 'Node.js', 'Tailwind'],
     liveUrl: 'https://graylinedxb.vercel.app/',
     liveLabel: 'Visit Studio',
