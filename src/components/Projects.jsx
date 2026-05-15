@@ -80,7 +80,7 @@ const GRID_PROJECTS = [
     title: 'AI Flashcard Generator',
     desc: 'Built in 2 hours. Accepts a topic, constructs a structured prompt, and returns flashcard sets via Gemini. FastAPI backend, React frontend.',
     stack: ['Python', 'Gemini API', 'FastAPI', 'React'],
-    repoUrl: '#',
+    repoUrl: 'https://github.com/SwackyO/hackathon-project',
     screenshots: [
       {
         id: 1,
