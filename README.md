@@ -1,16 +1,49 @@
-# React + Vite
+# Ahmad Habib — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built to showcase my projects, technical skills, and experience in software development and AI-focused systems integration.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
 
-## React Compiler
+This portfolio was developed to create a clean and modern online presence highlighting:
+- Web development projects
+- AI-integrated applications
+- Technical skills and experience
+- Contact and resume access
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The website focuses on responsive design, smooth interactions, and minimal aesthetics while maintaining strong performance and usability.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Modern responsive UI
+- Project showcase section
+- Resume download support
+- Smooth animations and transitions
+- Mobile-friendly design
+- Contact section
+- Optimized deployment with Vercel
+
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+
+## Projects Featured
+
+Some of the projects showcased include:
+- AI Flashcard Generator
+- Multiplayer Bingo Game
+- Formula 24 EVGP-related work
+- Client web development projects
+- AI-powered system integrations
+
+
+## Purpose
+
+This portfolio serves as a central hub for my work, allowing recruiters, collaborators, and clients to explore my projects and technical capabilities.
